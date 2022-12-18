@@ -1,0 +1,100 @@
+{
+	"rankings": [
+		{
+			"title": "Hades - Companions",
+			"state": "m7LQgHuh4SSGSQsNpjGzMDIwsQIA"
+		}
+	],
+	"items": [
+		{
+			"name": "Companion Battie",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Companion_Battie",
+				"img": {
+					"src": "assets/companion-battie.png",
+					"width": 152,
+					"height": 193
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Megaera\" title=\"Megaera\">Megaera</a>",
+					"description": "Your <b>Summon</b> deals 2500 damage in an area near your closest foe, then continually down the line.\n<p><i>** Cannot be used against any Fury Sisters</i>\n</p>\n"
+				}
+			}
+		},
+		{
+			"name": "Companion Mort",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Companion_Mort",
+				"img": {
+					"src": "assets/companion-mort.png",
+					"width": 146,
+					"height": 200
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Thanatos\" title=\"Thanatos\">Thanatos</a>",
+					"description": "Your <b>Summon</b> deals 3500 damage in an area in front of you, after a brief delay.\n<p><i>** Cannot be used in <a href=\"https://hades.fandom.com/wiki/Thanatos\" title=\"Thanatos\">Thanatos</a>'s encounters</i>\n</p>\n"
+				}
+			}
+		},
+		{
+			"name": "Companion Rib",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Companion_Rib",
+				"img": {
+					"src": "assets/companion-rib.png",
+					"width": 158,
+					"height": 186
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Skelly\" title=\"Skelly\">Skelly</a>",
+					"description": "Your <b>Summon</b> creates a distraction with 250<a href=\"https://hades.fandom.com/wiki/Health\" title=\"Health\"><img alt=\"Health\" height=\"25\" src=\"assets/icons/heart.png\" width=\"25\"/></a>, provoking your foes to attack it until it dies.\n<p><i>** Cannot be used against <a href=\"https://hades.fandom.com/wiki/Charon\" title=\"Charon\">Charon</a></i>\n</p>\n"
+				}
+			}
+		},
+		{
+			"name": "Companion Shady",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Companion_Shady",
+				"img": {
+					"src": "assets/companion-shady.png",
+					"width": 125,
+					"height": 174
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Sisyphus\" title=\"Sisyphus\">Sisyphus</a>",
+					"description": "Your <b>Summon</b> deals 1000 damage in an area and drops a smattering of <a href=\"https://hades.fandom.com/wiki/Health\" title=\"Health\"><img alt=\"Health\" height=\"25\" src=\"assets/icons/heart.png\" width=\"25\"/></a>, <a href=\"https://hades.fandom.com/wiki/Darkness\" title=\"Darkness\"><img alt=\"Darkness\" height=\"25\" src=\"assets/icons/darkness-small.png\" width=\"22\"/></a>, and <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>.\n<p>Drops per use:\n</p>\n<ul><li>1 <a href=\"https://hades.fandom.com/wiki/Darkness\" title=\"Darkness\"><img alt=\"Darkness\" height=\"25\" src=\"assets/icons/darkness-small.png\" width=\"22\"/></a> pickup worth 10 <a href=\"https://hades.fandom.com/wiki/Darkness\" title=\"Darkness\"><img alt=\"Darkness\" height=\"25\" src=\"assets/icons/darkness-small.png\" width=\"22\"/></a></li>\n<li>1 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a> pickup, worth 30 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a></li>\n<li>4 <a href=\"https://hades.fandom.com/wiki/Health\" title=\"Health\"><img alt=\"Health\" height=\"25\" src=\"assets/icons/heart.png\" width=\"25\"/></a> pickups, each healing 10 <a href=\"https://hades.fandom.com/wiki/Health\" title=\"Health\"><img alt=\"Health\" height=\"25\" src=\"assets/icons/heart.png\" width=\"25\"/></a></li></ul>\n"
+				}
+			}
+		},
+		{
+			"name": "Companion Fidi",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Companion_Fidi",
+				"img": {
+					"src": "assets/companion-fidi.png",
+					"width": 156,
+					"height": 164
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Dusa\" title=\"Dusa\">Dusa</a>",
+					"description": "Your <b>Summon</b> joins you for 30 sec, repeatedly firing shots that petrify foes and deal 70 damage.\n"
+				}
+			}
+		},
+		{
+			"name": "Companion Antos",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Companion_Antos",
+				"img": {
+					"src": "assets/companion-antos.png",
+					"width": 162,
+					"height": 182
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Achilles\" title=\"Achilles\">Achilles</a>",
+					"description": "Your <b>Summon</b> deals 1500 damage to 2 foes one after another.\n"
+				}
+			}
+		}
+	]
+}

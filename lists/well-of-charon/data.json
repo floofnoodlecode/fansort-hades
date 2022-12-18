@@ -1,0 +1,400 @@
+{
+	"rankings": [
+		{
+			"title": "Hades - Well of Charon",
+			"state": "m7LQwGOh4SSGSQsN7jAISYpMkhDk5GPimcItxMIrxsXGLDCZnYFxkrjwJFZRDn4A"
+		}
+	],
+	"items": [
+		{
+			"name": "Aether Net",
+			"props": {
+				"img": {
+					"src": "assets/aether-net.png",
+					"width": 145,
+					"height": 141
+				},
+				"fields": {
+					"description": "You start <b>Encounter(s)</b> with your <b>God Gauge</b> <b><span style=\"color:#73C745;\">15%</span></b> full<b>.</b>\n",
+					"price": "15 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "6 Encounters"
+				}
+			}
+		},
+		{
+			"name": "Braid of Atlas",
+			"props": {
+				"img": {
+					"src": "assets/braid-of-atlas.png",
+					"width": 145,
+					"height": 143
+				},
+				"fields": {
+					"description": "Your <b>Cast</b> deals <b><span style=\"color:#73C745;\">+50%</span></b> damage.\n",
+					"price": "20 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "6 Encounters"
+				}
+			}
+		},
+		{
+			"name": "Centaur Soul",
+			"props": {
+				"img": {
+					"src": "assets/centaur-soul.png",
+					"width": 145,
+					"height": 141
+				},
+				"fields": {
+					"description": "Gain <b><span style=\"color:#73C745;\">+25</span></b><a href=\"https://hades.fandom.com/wiki/Health\" title=\"Health\"><img alt=\"Health\" height=\"25\" src=\"assets/icons/healthup.png\" width=\"25\"/></a> <i>(without restoring <a href=\"https://hades.fandom.com/wiki/Health\" title=\"Health\"><img alt=\"Health\" height=\"25\" src=\"assets/icons/heart.png\" width=\"25\"/></a>)</i>.\n",
+					"price": "100 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "Instant"
+				}
+			}
+		},
+		{
+			"name": "Chimaera Jerky",
+			"props": {
+				"img": {
+					"src": "assets/chimaera-jerky.png",
+					"width": 145,
+					"height": 141
+				},
+				"fields": {
+					"description": "Your <b>Special</b> deals <b><span style=\"color:#73C745;\">+40%</span></b> damage.\n",
+					"price": "35 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "6 Encounters"
+				}
+			}
+		},
+		{
+			"name": "Cyclops Jerky",
+			"props": {
+				"img": {
+					"src": "assets/cyclops-jerky.png",
+					"width": 146,
+					"height": 146
+				},
+				"fields": {
+					"description": "Your <b>Attack</b> deals <b><span style=\"color:#73C745;\">+30%</span></b> damage.\n",
+					"price": "40 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "6 Encounters"
+				}
+			}
+		},
+		{
+			"name": "Eris Bangle",
+			"props": {
+				"img": {
+					"src": "assets/eris-bangle.png",
+					"width": 145,
+					"height": 141
+				},
+				"fields": {
+					"description": "You deal <b><span style=\"color:#73C745;\">+50%</span></b> damage striking undamaged foes.\n",
+					"price": "30 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "6 Encounters"
+				}
+			}
+		},
+		{
+			"name": "Eye of Lamia",
+			"props": {
+				"img": {
+					"src": "assets/eye-of-lamia.png",
+					"width": 142,
+					"height": 139
+				},
+				"fields": {
+					"description": "Slain foes have a <b><span style=\"color:#73C745;\">15%</span></b> chance to drop healing items.\n",
+					"price": "25 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "3 Encounters"
+				}
+			}
+		},
+		{
+			"name": "Fateful Twist",
+			"props": {
+				"img": {
+					"src": "assets/fateful-twist.png",
+					"width": 145,
+					"height": 141
+				},
+				"fields": {
+					"description": "Gain a random item offered from the <b>Well of Charon</b>.\n",
+					"price": "45 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "Instant"
+				}
+			}
+		},
+		{
+			"name": "Flame Wheels Release",
+			"props": {
+				"img": {
+					"src": "assets/flame-wheels-release.png",
+					"width": 145,
+					"height": 141
+				},
+				"fields": {
+					"description": "Prevent <b><a href=\"https://hades.fandom.com/wiki/Flame_Wheel\" title=\"Flame Wheel\">Flame Wheel</a></b> foes from appearing in <b>Encounter(s)</b>.\n",
+					"price": "75 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "10 Encounters"
+				}
+			}
+		},
+		{
+			"name": "Gaea's Treasure",
+			"props": {
+				"img": {
+					"src": "assets/gaea-s-treasure.png",
+					"width": 145,
+					"height": 141
+				},
+				"fields": {
+					"description": "Gain <b><span style=\"color:#73C745;\">11-14</span></b> <a href=\"https://hades.fandom.com/wiki/Gemstone\" title=\"Gemstone\"><img alt=\"Gemstone\" height=\"25\" src=\"assets/icons/gemstone-small.png\" width=\"23\"/></a> \n",
+					"price": "<a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a> = <b><span style=\"color:#73C745;\">350%</span></b> <a href=\"https://hades.fandom.com/wiki/Gemstone\" title=\"Gemstone\"><img alt=\"Gemstone\" height=\"25\" src=\"assets/icons/gemstone-small.png\" width=\"23\"/></a> (rounded up)\n",
+					"duration": "Instant"
+				}
+			}
+		},
+		{
+			"name": "HydraLite",
+			"props": {
+				"img": {
+					"src": "assets/hydralite.png",
+					"width": 145,
+					"height": 142
+				},
+				"fields": {
+					"description": "You recover <b><span style=\"color:#73C745;\">10%</span></b> <a href=\"https://hades.fandom.com/wiki/Health\" title=\"Health\"><img alt=\"Health\" height=\"25\" src=\"assets/icons/heart.png\" width=\"25\"/></a> when you enter a chamber.\n",
+					"price": "45 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "3 Chambers"
+				}
+			}
+		},
+		{
+			"name": "Ignited Ichor",
+			"props": {
+				"img": {
+					"src": "assets/ignited-ichor.png",
+					"width": 146,
+					"height": 143
+				},
+				"fields": {
+					"description": "Gain <b><span style=\"color:#73C745;\">20%</span></b> move speed.\n",
+					"price": "10 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "8 Encounters"
+				}
+			}
+		},
+		{
+			"name": "Kiss of Styx",
+			"props": {
+				"img": {
+					"src": "assets/kiss-of-styx.png",
+					"width": 143,
+					"height": 146
+				},
+				"fields": {
+					"description": "Replenish <span style=\"color:#73C745;\">1</span> use of <b><a href=\"https://hades.fandom.com/wiki/Death_Defiance\" title=\"Death Defiance\">Death Defiance</a></b>.\n",
+					"price": "200 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "Instant"
+				}
+			}
+		},
+		{
+			"name": "Life Essence",
+			"props": {
+				"img": {
+					"src": "assets/life-essence.png",
+					"width": 146,
+					"height": 144
+				},
+				"fields": {
+					"description": "Restore up to <b><span style=\"color:#73C745;\">22-38%</span></b> <a href=\"https://hades.fandom.com/wiki/Health\" title=\"Health\"><img alt=\"Health\" height=\"25\" src=\"assets/icons/heart.png\" width=\"25\"/></a> (rounded up).\n",
+					"price": "<a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a> = <b><span style=\"color:#73C745;\">65-80%</span></b> <a href=\"https://hades.fandom.com/wiki/Health\" title=\"Health\"><img alt=\"Health\" height=\"25\" src=\"assets/icons/heart.png\" width=\"25\"/></a> (rounded down)\n",
+					"duration": "Instant"
+				}
+			}
+		},
+		{
+			"name": "Light of Ixion",
+			"props": {
+				"img": {
+					"src": "assets/light-of-ixion.png",
+					"width": 146,
+					"height": 142
+				},
+				"fields": {
+					"description": "Ensure a <b><a href=\"https://hades.fandom.com/wiki/Chaos_Gate\" title=\"Chaos Gate\">Chaos Gate</a></b> will spawn ahead <i>(where possible)</i>.\n",
+					"price": "40 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "Until Spawn"
+				}
+			}
+		},
+		{
+			"name": "Nail of Talos",
+			"props": {
+				"img": {
+					"src": "assets/nail-of-talos.png",
+					"width": 148,
+					"height": 145
+				},
+				"fields": {
+					"description": "You deal <b><span style=\"color:#73C745;\">+50%</span></b> damage to <b><a href=\"https://hades.fandom.com/wiki/Gameplay_mechanics#Armor\" title=\"Gameplay mechanics\">Armor</a></b>.\n",
+					"price": "65 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "6 Encounters"
+				}
+			}
+		},
+		{
+			"name": "Nemesis Crest",
+			"props": {
+				"img": {
+					"src": "assets/nemesis-crest.png",
+					"width": 145,
+					"height": 144
+				},
+				"fields": {
+					"description": "You deal <b><span style=\"color:#73C745;\">+50%</span></b> damage striking foes from behind.\n",
+					"price": "60 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "6 Encounters"
+				}
+			}
+		},
+		{
+			"name": "Night Spindle",
+			"props": {
+				"img": {
+					"src": "assets/night-spindle.png",
+					"width": 145,
+					"height": 143
+				},
+				"fields": {
+					"description": "Gain <span style=\"color:#73C745;\">+1</span> use of your <b>Chthonic Companion</b>'s <b>Summon</b>.\n",
+					"price": "40<a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "Instant"
+				}
+			}
+		},
+		{
+			"name": "Price of Midas",
+			"props": {
+				"img": {
+					"src": "assets/price-of-midas.png",
+					"width": 145,
+					"height": 141
+				},
+				"fields": {
+					"description": "Gain  <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a> = 1.1 - 1.8x <a href=\"https://hades.fandom.com/wiki/Health\" title=\"Health\"><img alt=\"Health\" height=\"25\" src=\"assets/icons/heart.png\" width=\"25\"/></a> cost <i>(for a blood price)</i> \n",
+					"price": "10-50 <a href=\"https://hades.fandom.com/wiki/Health\" title=\"Health\"><img alt=\"Health\" height=\"25\" src=\"assets/icons/heart.png\" width=\"25\"/></a>\n",
+					"duration": "Instant"
+				}
+			}
+		},
+		{
+			"name": "Prometheus Stone",
+			"props": {
+				"img": {
+					"src": "assets/prometheus-stone.png",
+					"width": 143,
+					"height": 139
+				},
+				"fields": {
+					"description": "Gain <b><span style=\"color:#73C745;\">+1</span></b> <a href=\"https://static.wikia.nocookie.net/hades_gamepedia_en/images/1/10/Ammo.png/revision/latest?cb=20181213213644\" title=\"Cast Ammo\"><img alt=\"Cast Ammo\" height=\"25\" src=\"assets/icons/ammo.png\" width=\"25\"/></a> for your <b>Cast</b>.\n",
+					"price": "50 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "6 Encounters"
+				}
+			}
+		},
+		{
+			"name": "Skeletal Lure",
+			"props": {
+				"img": {
+					"src": "assets/skeletal-lure.png",
+					"width": 143,
+					"height": 141
+				},
+				"fields": {
+					"description": "Ensure a <b><a href=\"https://hades.fandom.com/wiki/Fishing\" title=\"Fishing\">Fishing Point</a></b> will spawn ahead <i>(where possible)</i>.\n",
+					"price": "60 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "Until Spawn"
+				}
+			}
+		},
+		{
+			"name": "Stygian Shard",
+			"props": {
+				"img": {
+					"src": "assets/stygian-shard.png",
+					"width": 145,
+					"height": 144
+				},
+				"fields": {
+					"description": "<b>Traps</b> deal <b><span style=\"color:#73C745;\">+500%</span></b> damage to your foes.\n",
+					"price": "35 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "6 Encounters"
+				}
+			}
+		},
+		{
+			"name": "Tinge of Erebus",
+			"props": {
+				"img": {
+					"src": "assets/tinge-of-erebus.png",
+					"width": 145,
+					"height": 142
+				},
+				"fields": {
+					"description": "Gain <b><span style=\"color:#73C745;\">12-26</span></b> <a href=\"https://hades.fandom.com/wiki/Darkness\" title=\"Darkness\"><img alt=\"Darkness\" height=\"25\" src=\"assets/icons/darkness-small.png\" width=\"22\"/></a>\n",
+					"price": "<a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a> = <b><span style=\"color:#73C745;\">75%</span></b> <a href=\"https://hades.fandom.com/wiki/Darkness\" title=\"Darkness\"><img alt=\"Darkness\" height=\"25\" src=\"assets/icons/darkness-small.png\" width=\"22\"/></a> (rounded down)\n",
+					"duration": "Instant"
+				}
+			}
+		},
+		{
+			"name": "Touch of Styx",
+			"props": {
+				"img": {
+					"src": "assets/kiss-of-styx.png",
+					"width": 143,
+					"height": 146
+				},
+				"fields": {
+					"description": "Your <b><a href=\"https://hades.fandom.com/wiki/Mirror_of_Night#Talents\" title=\"Mirror of Night\">Stubborn Defiance</a></b> restores <b><span style=\"color:#73C745;\">+10%</span></b> <a href=\"https://hades.fandom.com/wiki/Health\" title=\"Health\"><img alt=\"Health\" height=\"25\" src=\"assets/icons/heart.png\" width=\"25\"/></a>. \n",
+					"price": "55 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "15 Encounters"
+				}
+			}
+		},
+		{
+			"name": "Trove Tracker",
+			"props": {
+				"img": {
+					"src": "assets/trove-tracker.png",
+					"width": 146,
+					"height": 142
+				},
+				"fields": {
+					"description": "Ensure a <b><a href=\"https://hades.fandom.com/wiki/Infernal_Trove\" title=\"Infernal Trove\">Infernal Trove</a></b> will spawn ahead <i>(where possible)</i>.\n",
+					"price": "50 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "Until Spawn"
+				}
+			}
+		},
+		{
+			"name": "Yarn of Ariadne",
+			"props": {
+				"img": {
+					"src": "assets/yarn-of-ariadne.png",
+					"width": 145,
+					"height": 141
+				},
+				"fields": {
+					"description": "The next <b>Boon</b> you find has upgraded <b>Rarity</b>.\n",
+					"price": "70 <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a>\n",
+					"duration": "Until next Boon"
+				}
+			}
+		}
+	]
+}

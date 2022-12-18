@@ -1,0 +1,11 @@
+{
+	"title": "Hades - Well of Charon", // List title
+
+	// Logo image information
+	"logo": {
+		"src": "logo.png", // Logo source image (Example: "assets/abc.png")
+		"object-fit": "cover", // CSS object-fit value
+		"object-position": "50% 50%", // CSS object-position value
+		"pixelated": false // If true, keep the image pixelated when resizing
+	}
+}

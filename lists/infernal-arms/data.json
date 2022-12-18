@@ -1,0 +1,82 @@
+{
+	"rankings": [
+		{
+			"title": "Hades - Infernal Arms",
+			"state": "m7LQgH2h4SSGSQsNpjBPYmGYxMTKCAA"
+		}
+	],
+	"items": [
+		{
+			"name": "\"Stygius\" / Stygian Blade",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Stygian_Blade",
+				"img": {
+					"src": "assets/stygius.png",
+					"width": 78,
+					"height": 193
+				},
+				"fields": {}
+			}
+		},
+		{
+			"name": "\"Varatha\" / Eternal Spear",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Eternal_Spear",
+				"img": {
+					"src": "assets/varatha.png",
+					"width": 58,
+					"height": 218
+				},
+				"fields": {}
+			}
+		},
+		{
+			"name": "\"Aegis\" / Shield of Chaos",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Shield_of_Chaos",
+				"img": {
+					"src": "assets/aegis.png",
+					"width": 165,
+					"height": 195
+				},
+				"fields": {}
+			}
+		},
+		{
+			"name": "\"Coronacht\" / Heart-Seeking Bow",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Heart-Seeking_Bow",
+				"img": {
+					"src": "assets/coronacht.png",
+					"width": 238,
+					"height": 177
+				},
+				"fields": {}
+			}
+		},
+		{
+			"name": "\"Malphon\" / Twin Fists of Malphon",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Twin_Fists",
+				"img": {
+					"src": "assets/malphon.png",
+					"width": 137,
+					"height": 173
+				},
+				"fields": {}
+			}
+		},
+		{
+			"name": "\"Exagryph\" / Adamant Rail",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Adamant_Rail",
+				"img": {
+					"src": "assets/exagryph.png",
+					"width": 230,
+					"height": 178
+				},
+				"fields": {}
+			}
+		}
+	]
+}

@@ -1,0 +1,385 @@
+{
+	"rankings": [
+		{
+			"title": "Hades - Keepsakes",
+			"state": "m7LQwGSh4SSGSQsNZk0SF57ExDyJQXCyCBvHJDFW0Rl8_Fy8Atw8QoyTWCQmsXMCAA"
+		}
+	],
+	"items": [
+		{
+			"name": "Old Spiked Collar",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Old_Spiked_Collar",
+				"img": {
+					"src": "assets/old-spiked-collar.png",
+					"width": 155,
+					"height": 155
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Cerberus\" title=\"Cerberus\">Cerberus</a>",
+					"description": "Gain <span style=\"color:#73C745;\">+25/38/50</span> <a href=\"https://hades.fandom.com/wiki/Health\" title=\"Health\"><img alt=\"Health\" height=\"25\" src=\"assets/icons/heart.png\" width=\"25\"/></a>.\n"
+				}
+			}
+		},
+		{
+			"name": "Myrmidon Bracer",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Myrmidon_Bracer",
+				"img": {
+					"src": "assets/myrmidon-bracer.png",
+					"width": 137,
+					"height": 162
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Achilles\" title=\"Achilles\">Achilles</a>",
+					"description": "Take <span style=\"color:#73C745;\">20/25/30% less damage</span> from the front, but <span style=\"color:#C70F0F;\">10% more</span> from the back.\n"
+				}
+			}
+		},
+		{
+			"name": "Black Shawl",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Black_Shawl",
+				"img": {
+					"src": "assets/black-shawl.png",
+					"width": 148,
+					"height": 153
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Nyx\" title=\"Nyx\">Nyx</a>",
+					"description": "Deal <span style=\"color:#73C745;\">10/15/20%</span> damage striking undamaged foes; also striking foes from behind.\n"
+				}
+			}
+		},
+		{
+			"name": "Pierced Butterfly",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Pierced_Butterfly",
+				"img": {
+					"src": "assets/pierced-butterfly.png",
+					"width": 175,
+					"height": 175
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Thanatos\" title=\"Thanatos\">Thanatos</a>",
+					"description": "Gain <span style=\"color:#73C745;\">+1/1.5/2%</span> damage for each <b>Encounter</b> you clear without taking damage.\n"
+				}
+			}
+		},
+		{
+			"name": "Bone Hourglass",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Bone_Hourglass",
+				"img": {
+					"src": "assets/bone-hourglass.png",
+					"width": 127,
+					"height": 157
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Charon\" title=\"Charon\">Charon</a>",
+					"description": "Items from the <a href=\"https://hades.fandom.com/wiki/Well_of_Charon\" title=\"Well of Charon\">Well of Charon</a> have durations increased by <span style=\"color:#73C745;\">+4/6/8 Encounters</span>.\n"
+				}
+			}
+		},
+		{
+			"name": "Chthonic Coin Purse",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Chthonic_Coin_Purse",
+				"img": {
+					"src": "assets/chthonic-coin-purse.png",
+					"width": 154,
+					"height": 135
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Hypnos\" title=\"Hypnos\">Hypnos</a>",
+					"description": "Receive <span style=\"color:#73C745;\">100/125/150</span> <a href=\"https://hades.fandom.com/wiki/Charon%27s_Obol\" title=\"Obols\"><img alt=\"Obols\" height=\"25\" src=\"assets/icons/obol.png\" width=\"25\"/></a> to spend as you please <i>(once per escape attempt)</i>.\n"
+				}
+			}
+		},
+		{
+			"name": "Skull Earring",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Skull_Earring",
+				"img": {
+					"src": "assets/skull-earring.png",
+					"width": 92,
+					"height": 165
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Megaera\" title=\"Megaera\">Megaera</a>",
+					"description": "Deal <span style=\"color:#73C745;\">20/30/40% </span> more damage while at <span style=\"color:#C70F0F;\">35%</span> <a href=\"https://hades.fandom.com/wiki/Health\" title=\"Health\"><img alt=\"Health\" height=\"25\" src=\"assets/icons/heart.png\" width=\"25\"/></a> or less.\n"
+				}
+			}
+		},
+		{
+			"name": "Distant Memory",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Distant_Memory",
+				"img": {
+					"src": "assets/distant-memory.png",
+					"width": 122,
+					"height": 143
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Orpheus\" title=\"Orpheus\">Orpheus</a>",
+					"description": "Deal <span style=\"color:#73C745;\">10/20/30%</span> more damage to distant foes (at least 500 units away).\n"
+				}
+			}
+		},
+		{
+			"name": "Harpy Feather Duster",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Harpy_Feather_Duster",
+				"img": {
+					"src": "assets/harpy-feather-duster.png",
+					"width": 138,
+					"height": 173
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Dusa\" title=\"Dusa\">Dusa</a>",
+					"description": "Broken urns have a <span style=\"color:#73C745;\">3/5/6% chance</span> to contain healing items.\n"
+				}
+			}
+		},
+		{
+			"name": "Lucky Tooth",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Lucky_Tooth",
+				"img": {
+					"src": "assets/lucky-tooth.png",
+					"width": 110,
+					"height": 164
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Skelly\" title=\"Skelly\">Skelly</a>",
+					"description": "Automatically restore up to <span style=\"color:#73C745;\">50/75/100</span> <a href=\"https://hades.fandom.com/wiki/Health\" title=\"Health\"><img alt=\"Health\" height=\"25\" src=\"assets/icons/heart.png\" width=\"25\"/></a> when your Life Total is depleted <i>(once per escape attempt)</i>.\n"
+				}
+			}
+		},
+		{
+			"name": "Thunder Signet",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Thunder_Signet",
+				"img": {
+					"src": "assets/thunder-signet.png",
+					"width": 111,
+					"height": 144
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Zeus\" title=\"Zeus\">Zeus</a>",
+					"description": "The next <b>Boon</b> you find will be from <b>Zeus</b>. His blessings have <span style=\"color:#73C745;\">+10/15/20%</span> chance to be <span style=\"color:#008AFF;\">Rare</span> or better.\n"
+				}
+			}
+		},
+		{
+			"name": "Conch Shell",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Conch_Shell",
+				"img": {
+					"src": "assets/conch-shell.png",
+					"width": 143,
+					"height": 133
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Poseidon\" title=\"Poseidon\">Poseidon</a>",
+					"description": "The next <b>Boon</b> you find will be from <b>Poseidon</b>. His blessings have <span style=\"color:#73C745;\">+10/15/20%</span> chance to be <span style=\"color:#008AFF;\">Rare</span> or better.\n"
+				}
+			}
+		},
+		{
+			"name": "Owl Pendant",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Owl_Pendant",
+				"img": {
+					"src": "assets/owl-pendant.png",
+					"width": 172,
+					"height": 144
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Athena\" title=\"Athena\">Athena</a>",
+					"description": "The next <b>Boon</b> you find will be from <b>Athena</b>. Her blessings have <span style=\"color:#73C745;\">+10/15/20%</span> chance to be <span style=\"color:#008AFF;\">Rare</span> or better.\n"
+				}
+			}
+		},
+		{
+			"name": "Eternal Rose",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Eternal_Rose",
+				"img": {
+					"src": "assets/eternal-rose.png",
+					"width": 91,
+					"height": 160
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Aphrodite\" title=\"Aphrodite\">Aphrodite</a>",
+					"description": "The next <b>Boon</b> you find will be from <b>Aphrodite</b>. Her blessings have <span style=\"color:#73C745;\">+10/15/20%</span> chance to be <span style=\"color:#008AFF;\">Rare</span> or better.\n"
+				}
+			}
+		},
+		{
+			"name": "Blood-Filled Vial",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Blood-Filled_Vial",
+				"img": {
+					"src": "assets/blood-filled-vial.png",
+					"width": 85,
+					"height": 145
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Ares\" title=\"Ares\">Ares</a>",
+					"description": "The next <b>Boon</b> you find will be from <b>Ares</b>. His blessings have <span style=\"color:#73C745;\">+10/15/20%</span> chance to be <span style=\"color:#008AFF;\">Rare</span> or better.\n"
+				}
+			}
+		},
+		{
+			"name": "Adamant Arrowhead",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Adamant_Arrowhead",
+				"img": {
+					"src": "assets/adamant-arrowhead.png",
+					"width": 126,
+					"height": 151
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Artemis\" title=\"Artemis\">Artemis</a>",
+					"description": "The next <b>Boon</b> you find will be from <b>Artemis</b>. Her blessings have <span style=\"color:#73C745;\">+10/15/20%</span> chance to be <span style=\"color:#008AFF;\">Rare</span> or better.\n"
+				}
+			}
+		},
+		{
+			"name": "Overflowing Cup",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Overflowing_Cup",
+				"img": {
+					"src": "assets/overflowing-cup.png",
+					"width": 181,
+					"height": 181
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Dionysus\" title=\"Dionysus\">Dionysus</a>",
+					"description": "The next <b>Boon</b> you find will be from <b>Dionysus</b>. His blessings have <span style=\"color:#73C745;\">+10/15/20%</span> chance to be <span style=\"color:#008AFF;\">Rare</span> or better.\n"
+				}
+			}
+		},
+		{
+			"name": "Lambent Plume",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Lambent_Plume",
+				"img": {
+					"src": "assets/lambent-plume.png",
+					"width": 150,
+					"height": 180
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Hermes\" title=\"Hermes\">Hermes</a>",
+					"description": "Gain <span style=\"color:#73C745;\">+1.0/1.1/1.2%</span> <b>Dodge</b> <b>chance</b> and <b>move speed</b> for each <b>Encounter</b> you clear <b>quickly</b>.\n<p><i><small>(\"Quickly\" varies based on the encounter type and biome. More time will be offered in higher biomes,</small></i> <i><small>and in special encounters, such as bosses, mini-bosses, and Thanatos Encounters.)</small></i>\n</p>\n"
+				}
+			}
+		},
+		{
+			"name": "Frostbitten Horn",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Frostbitten_Horn",
+				"img": {
+					"src": "assets/frostbitten-horn.png",
+					"width": 133,
+					"height": 135
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Demeter\" title=\"Demeter\">Demeter</a>",
+					"description": "The next <b>Boon</b> you find will be from <b>Demeter</b>. Her blessings have <span style=\"color:#73C745;\">+10/15/20%</span> chance to be <span style=\"color:#008AFF;\">Rare</span> or better.\n"
+				}
+			}
+		},
+		{
+			"name": "Cosmic Egg",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Cosmic_Egg",
+				"img": {
+					"src": "assets/cosmic-egg.png",
+					"width": 180,
+					"height": 180
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Chaos\" title=\"Chaos\">Chaos</a>",
+					"description": "Enter Chaos Gates without losing <a href=\"https://hades.fandom.com/wiki/Health\" title=\"Health\"><img alt=\"Health\" height=\"25\" src=\"assets/icons/heart.png\" width=\"25\"/></a>. Blessings from Chaos have <span style=\"color:#73C745;\">+20/30/40%</span> chance to be <span style=\"color:#008AFF;\">Rare</span> or better.\n"
+				}
+			}
+		},
+		{
+			"name": "Shattered Shackle",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Shattered_Shackle",
+				"img": {
+					"src": "assets/shattered-shackle.png",
+					"width": 135,
+					"height": 176
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Sisyphus\" title=\"Sisyphus\">Sisyphus</a>",
+					"description": "Your Attack, Special, and Cast each deal <span style=\"color:#73C745;\">+50/75/100%</span> damage while not empowered by a Boon.\n"
+				}
+			}
+		},
+		{
+			"name": "Evergreen Acorn",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Evergreen_Acorn",
+				"img": {
+					"src": "assets/evergreen-acorn.png",
+					"width": 144,
+					"height": 144
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Eurydice\" title=\"Eurydice\">Eurydice</a>",
+					"description": "In the final encounter in each underworld region, take <b>0</b> damage the first <span style=\"color:#73C745;\">3/4/5</span> times foes hit you.\n"
+				}
+			}
+		},
+		{
+			"name": "Broken Spearpoint",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Broken_Spearpoint",
+				"img": {
+					"src": "assets/broken-spearpoint.png",
+					"width": 153,
+					"height": 193
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Patroclus\" title=\"Patroclus\">Patroclus</a>",
+					"description": "After taking damage, become invulnerable for <span style=\"color:#73C745;\">1/1.25/1.5</span> sec. Refreshes after 7 Sec.\n"
+				}
+			}
+		},
+		{
+			"name": "Pom Blossom",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Pom_Blossom",
+				"img": {
+					"src": "assets/pom-blossom.png",
+					"width": 140,
+					"height": 133
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Persephone\" title=\"Persephone\">Persephone</a>",
+					"description": "After every <span style=\"color:#73C745;\">6/5/4</span> <b>Encounters</b>, gain +1 Lv. <i>(a random Boon grows stronger).</i>\n"
+				}
+			}
+		},
+		{
+			"name": "Sigil of the Dead",
+			"props": {
+				"url": "https://hades.fandom.com/wiki/Sigil_of_the_Dead",
+				"img": {
+					"src": "assets/sigil-of-the-dead.png",
+					"width": 122,
+					"height": 172
+				},
+				"fields": {
+					"source": "<a href=\"https://hades.fandom.com/wiki/Hades\" title=\"Hades\">Hades</a>",
+					"description": "Your <b>Call</b> becomes <b>Hades' Aid</b>, which briefly makes you <b>Invisible</b>; your <b>God Gauge</b> starts <span style=\"color:#73C745;\">10/20/30%</span> full.\n"
+				}
+			}
+		}
+	]
+}
