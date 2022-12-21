@@ -1,11 +1,9 @@
 {
-	"title": "Hades - Infernal Arms", // List title
-
-	// Logo image information
-	"logo": {
-		"src": "assets/malphon.png", // Logo source image (Example: "assets/abc.png")
-		"object-fit": "cover", // CSS object-fit value
-		"object-position": "50% 50%", // CSS object-position value
-		"pixelated": false // If true, keep the image pixelated when resizing
+	"title": "Hades - Infernal Arms",
+	"props": {
+		"logo": {
+			"src": "assets/malphon.png",
+			"style": "object-fit: cover"
+		}
 	}
 }

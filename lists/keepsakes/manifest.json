@@ -1,11 +1,9 @@
 {
-	"title": "Hades - Keepsakes", // List title
-
-	// Logo image information
-	"logo": {
-		"src": "assets/old-spiked-collar.png", // Logo source image (Example: "assets/abc.png")
-		"object-fit": "cover", // CSS object-fit value
-		"object-position": "50% 50%", // CSS object-position value
-		"pixelated": false // If true, keep the image pixelated when resizing
+	"title": "Hades - Keepsakes",
+	"props": {
+		"logo": {
+			"src": "assets/old-spiked-collar.png",
+			"style": "object-fit: cover"
+		}
 	}
 }
