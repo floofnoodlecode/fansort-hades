@@ -6,9 +6,4 @@
 	{% assign thumb = props.img %}
 {% endif %}
 
-{
-	"src": {{thumb.src}},
-	"width": {{thumb.width}},
-	"height": {{thumb.height}},
-	"pixelated": false
-}
+<image src="{{thumb.src}}" width="{{thumb.width}}" height="{{thumb.height}}"/>
